@@ -145,7 +145,7 @@ MongoDB (or Dockerized MongoDB)
 Redis (or Dockerized Redis)
 
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/VisheshRaj11/WORKO.ai.git
 cd your-repo-name
 
 2️⃣ Start Infrastructure (MongoDB, Redis, n8n)
