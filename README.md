@@ -1,8 +1,6 @@
 # WORKO.ai
 A smart workflow automation platform that analyzes professional work patterns, visualizes productivity insights, and automates repetitive tasks using MERN, n8n, Redis, and Docker.
 
-This project is a smart automation platform that helps professionals understand how they work and automatically handles boring, repetitive tasks.
-
 It collects work data from tools such as GitHub, Notion, Zapier, System Tasks, and Calendar, sends this data to an n8n automation agent, and then:
 
 Analyzes the user’s work patterns
