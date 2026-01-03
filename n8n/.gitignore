@@ -1,0 +1,10 @@
+
+n8n_data/
+postgres_data/
+mongo_data/
+
+
+.env
+
+.DS_Store
+Thumbs.db
